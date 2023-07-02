@@ -1,8 +1,0 @@
-C:\Users\Usuario\Desktop\Quark Academy\Patrones de diseño GOF\Singleton\Singleton\bin\Debug\Singleton.exe.config
-C:\Users\Usuario\Desktop\Quark Academy\Patrones de diseño GOF\Singleton\Singleton\bin\Debug\Singleton.exe
-C:\Users\Usuario\Desktop\Quark Academy\Patrones de diseño GOF\Singleton\Singleton\bin\Debug\Singleton.pdb
-C:\Users\Usuario\Desktop\Quark Academy\Patrones de diseño GOF\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Quark Academy\Patrones de diseño GOF\Singleton\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuario\Desktop\Quark Academy\Patrones de diseño GOF\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Quark Academy\Patrones de diseño GOF\Singleton\Singleton\obj\Debug\Singleton.exe
-C:\Users\Usuario\Desktop\Quark Academy\Patrones de diseño GOF\Singleton\Singleton\obj\Debug\Singleton.pdb
