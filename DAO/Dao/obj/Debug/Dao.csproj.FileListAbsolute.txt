@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Patrones de diseño\DAO\Dao\Dao\bin\Debug\Dao.exe.config
+C:\Users\Usuario\Desktop\Patrones de diseño\DAO\Dao\Dao\bin\Debug\Dao.exe
+C:\Users\Usuario\Desktop\Patrones de diseño\DAO\Dao\Dao\bin\Debug\Dao.pdb
+C:\Users\Usuario\Desktop\Patrones de diseño\DAO\Dao\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\DAO\Dao\Dao\obj\Debug\Dao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\DAO\Dao\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\DAO\Dao\Dao\obj\Debug\Dao.exe
+C:\Users\Usuario\Desktop\Patrones de diseño\DAO\Dao\Dao\obj\Debug\Dao.pdb
