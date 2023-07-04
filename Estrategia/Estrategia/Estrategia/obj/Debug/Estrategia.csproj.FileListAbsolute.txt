@@ -1,8 +1,0 @@
-C:\Users\Usuario\Desktop\Patrones de diseño\Estrategia\Estrategia\Estrategia\obj\Debug\Estrategia.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Estrategia\Estrategia\Estrategia\obj\Debug\Estrategia.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Estrategia\Estrategia\Estrategia\obj\Debug\Estrategia.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Estrategia\Estrategia\Estrategia\bin\Debug\Estrategia.exe.config
-C:\Users\Usuario\Desktop\Patrones de diseño\Estrategia\Estrategia\Estrategia\bin\Debug\Estrategia.exe
-C:\Users\Usuario\Desktop\Patrones de diseño\Estrategia\Estrategia\Estrategia\bin\Debug\Estrategia.pdb
-C:\Users\Usuario\Desktop\Patrones de diseño\Estrategia\Estrategia\Estrategia\obj\Debug\Estrategia.exe
-C:\Users\Usuario\Desktop\Patrones de diseño\Estrategia\Estrategia\Estrategia\obj\Debug\Estrategia.pdb
