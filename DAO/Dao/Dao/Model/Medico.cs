@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Dao.Model
+{
+    public class Medico
+    {
+        private int id;
+        private String nombre;
+
+        public int getId()
+        {
+            return id;
+        }
+
+        public void setId(int id)
+        {
+            this.id = id;
+        }
+
+        public String getNombre()
+        {
+            return nombre;
+        }
+
+        public void setNombre(String nombre)
+        {
+            this.nombre = nombre;
+        }
+    }
+}
