@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Patrones de diseño\Decorator\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Usuario\Desktop\Patrones de diseño\Decorator\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\Users\Usuario\Desktop\Patrones de diseño\Decorator\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Usuario\Desktop\Patrones de diseño\Decorator\Decorator\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\Decorator\Decorator\Decorator\obj\Debug\Decorator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\Decorator\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\Decorator\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\Usuario\Desktop\Patrones de diseño\Decorator\Decorator\Decorator\obj\Debug\Decorator.pdb
