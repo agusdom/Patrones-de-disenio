@@ -1,8 +1,0 @@
-C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Fabrica\Fabrica\Fabrica\bin\Debug\Fabrica.exe.config
-C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Fabrica\Fabrica\Fabrica\bin\Debug\Fabrica.exe
-C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Fabrica\Fabrica\Fabrica\bin\Debug\Fabrica.pdb
-C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Fabrica\Fabrica\Fabrica\obj\Debug\Fabrica.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Fabrica\Fabrica\Fabrica\obj\Debug\Fabrica.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Fabrica\Fabrica\Fabrica\obj\Debug\Fabrica.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Fabrica\Fabrica\Fabrica\obj\Debug\Fabrica.exe
-C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Fabrica\Fabrica\Fabrica\obj\Debug\Fabrica.pdb
