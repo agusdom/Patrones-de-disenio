@@ -1,8 +1,0 @@
-C:\Users\Usuario\Desktop\Patrones de diseño\Adaptador\Adapter\Adapter\bin\Debug\Adapter.exe.config
-C:\Users\Usuario\Desktop\Patrones de diseño\Adaptador\Adapter\Adapter\bin\Debug\Adapter.exe
-C:\Users\Usuario\Desktop\Patrones de diseño\Adaptador\Adapter\Adapter\bin\Debug\Adapter.pdb
-C:\Users\Usuario\Desktop\Patrones de diseño\Adaptador\Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Adaptador\Adapter\Adapter\obj\Debug\Adapter.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Adaptador\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Adaptador\Adapter\Adapter\obj\Debug\Adapter.exe
-C:\Users\Usuario\Desktop\Patrones de diseño\Adaptador\Adapter\Adapter\obj\Debug\Adapter.pdb
