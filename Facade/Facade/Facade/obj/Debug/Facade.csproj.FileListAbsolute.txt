@@ -1,8 +1,0 @@
-C:\Users\Usuario\Desktop\Patrones de diseño\Facade\Facade\Facade\bin\Debug\Facade.exe.config
-C:\Users\Usuario\Desktop\Patrones de diseño\Facade\Facade\Facade\bin\Debug\Facade.exe
-C:\Users\Usuario\Desktop\Patrones de diseño\Facade\Facade\Facade\bin\Debug\Facade.pdb
-C:\Users\Usuario\Desktop\Patrones de diseño\Facade\Facade\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Facade\Facade\Facade\obj\Debug\Facade.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Facade\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Facade\Facade\Facade\obj\Debug\Facade.exe
-C:\Users\Usuario\Desktop\Patrones de diseño\Facade\Facade\Facade\obj\Debug\Facade.pdb
