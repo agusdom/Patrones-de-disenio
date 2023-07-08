@@ -1,8 +1,0 @@
-C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Patrón_de_diseño_Proxy\Patrón_de_diseño_Proxy\obj\Debug\Patrón_de_diseño_Proxy.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Patrón_de_diseño_Proxy\Patrón_de_diseño_Proxy\obj\Debug\Patrón_de_diseño_Proxy.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Patrón_de_diseño_Proxy\Patrón_de_diseño_Proxy\obj\Debug\Patrón_de_diseño_Proxy.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Patrón_de_diseño_Proxy\Patrón_de_diseño_Proxy\bin\Debug\Patrón_de_diseño_Proxy.exe.config
-C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Patrón_de_diseño_Proxy\Patrón_de_diseño_Proxy\bin\Debug\Patrón_de_diseño_Proxy.exe
-C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Patrón_de_diseño_Proxy\Patrón_de_diseño_Proxy\bin\Debug\Patrón_de_diseño_Proxy.pdb
-C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Patrón_de_diseño_Proxy\Patrón_de_diseño_Proxy\obj\Debug\Patrón_de_diseño_Proxy.exe
-C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Patrón_de_diseño_Proxy\Patrón_de_diseño_Proxy\obj\Debug\Patrón_de_diseño_Proxy.pdb
