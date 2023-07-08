@@ -1,8 +1,0 @@
-C:\Users\Usuario\Desktop\Patrones de diseño\Memento\Patrón_de_diseño_Memento\Patrón_de_diseño_Memento_Clases\obj\Debug\Patrón_de_diseño_Memento_Clases.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Memento\Patrón_de_diseño_Memento\Patrón_de_diseño_Memento_Clases\obj\Debug\Patrón_de_diseño_Memento_Clases.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Memento\Patrón_de_diseño_Memento\Patrón_de_diseño_Memento_Clases\obj\Debug\Patrón_de_diseño_Memento_Clases.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Patrones de diseño\Memento\Patrón_de_diseño_Memento\Patrón_de_diseño_Memento_Clases\bin\Debug\Patrón_de_diseño_Memento_Clases.exe.config
-C:\Users\Usuario\Desktop\Patrones de diseño\Memento\Patrón_de_diseño_Memento\Patrón_de_diseño_Memento_Clases\bin\Debug\Patrón_de_diseño_Memento_Clases.exe
-C:\Users\Usuario\Desktop\Patrones de diseño\Memento\Patrón_de_diseño_Memento\Patrón_de_diseño_Memento_Clases\bin\Debug\Patrón_de_diseño_Memento_Clases.pdb
-C:\Users\Usuario\Desktop\Patrones de diseño\Memento\Patrón_de_diseño_Memento\Patrón_de_diseño_Memento_Clases\obj\Debug\Patrón_de_diseño_Memento_Clases.exe
-C:\Users\Usuario\Desktop\Patrones de diseño\Memento\Patrón_de_diseño_Memento\Patrón_de_diseño_Memento_Clases\obj\Debug\Patrón_de_diseño_Memento_Clases.pdb
