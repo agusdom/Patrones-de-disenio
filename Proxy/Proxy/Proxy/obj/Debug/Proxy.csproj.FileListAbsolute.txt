@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Proxy\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Proxy\Proxy\obj\Debug\Proxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\Users\Usuario\Desktop\Patrones de diseño\Proxy\Proxy\Proxy\obj\Debug\Proxy.pdb
