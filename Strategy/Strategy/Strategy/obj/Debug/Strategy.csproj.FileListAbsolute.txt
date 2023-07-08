@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Strategy\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Strategy\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Strategy\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Strategy\Strategy\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Strategy\Strategy\Strategy\obj\Debug\Strategy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Strategy\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Strategy\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\Usuario\Desktop\Patrones-de-disenio-main\Strategy\Strategy\Strategy\obj\Debug\Strategy.pdb
