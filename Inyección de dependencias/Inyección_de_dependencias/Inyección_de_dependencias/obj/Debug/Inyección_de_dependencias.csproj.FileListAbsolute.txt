@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Patrones de diseño\Inyección de dependencias\Inyección_de_dependencias\Inyección_de_dependencias\obj\Debug\Inyección_de_dependencias.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\Inyección de dependencias\Inyección_de_dependencias\Inyección_de_dependencias\obj\Debug\Inyección_de_dependencias.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\Inyección de dependencias\Inyección_de_dependencias\Inyección_de_dependencias\obj\Debug\Inyección_de_dependencias.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Patrones de diseño\Inyección de dependencias\Inyección_de_dependencias\Inyección_de_dependencias\bin\Debug\Inyección_de_dependencias.exe.config
+C:\Users\Usuario\Desktop\Patrones de diseño\Inyección de dependencias\Inyección_de_dependencias\Inyección_de_dependencias\bin\Debug\Inyección_de_dependencias.exe
+C:\Users\Usuario\Desktop\Patrones de diseño\Inyección de dependencias\Inyección_de_dependencias\Inyección_de_dependencias\bin\Debug\Inyección_de_dependencias.pdb
+C:\Users\Usuario\Desktop\Patrones de diseño\Inyección de dependencias\Inyección_de_dependencias\Inyección_de_dependencias\obj\Debug\Inyección_de_dependencias.exe
+C:\Users\Usuario\Desktop\Patrones de diseño\Inyección de dependencias\Inyección_de_dependencias\Inyección_de_dependencias\obj\Debug\Inyección_de_dependencias.pdb
