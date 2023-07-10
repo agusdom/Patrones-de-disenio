@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Iterator\Iterator\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\Usuario\Desktop\Iterator\Iterator\Iterator\bin\Debug\Iterator.exe
+C:\Users\Usuario\Desktop\Iterator\Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Usuario\Desktop\Iterator\Iterator\Iterator\obj\Debug\Iterator.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Iterator\Iterator\Iterator\obj\Debug\Iterator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Iterator\Iterator\Iterator\obj\Debug\Iterator.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Iterator\Iterator\Iterator\obj\Debug\Iterator.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Iterator\Iterator\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Iterator\Iterator\Iterator\obj\Debug\Iterator.exe
+C:\Users\Usuario\Desktop\Iterator\Iterator\Iterator\obj\Debug\Iterator.pdb
+C:\Users\Usuario\Desktop\Iterator\Iterator\Iterator\obj\Debug\Iterator.Form1.resources

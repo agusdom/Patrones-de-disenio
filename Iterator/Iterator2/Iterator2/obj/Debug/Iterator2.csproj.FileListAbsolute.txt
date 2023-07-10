@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Iterator\Iterator2\Iterator2\bin\Debug\Iterator2.exe.config
+C:\Users\Usuario\Desktop\Iterator\Iterator2\Iterator2\bin\Debug\Iterator2.exe
+C:\Users\Usuario\Desktop\Iterator\Iterator2\Iterator2\bin\Debug\Iterator2.pdb
+C:\Users\Usuario\Desktop\Iterator\Iterator2\Iterator2\obj\Debug\Iterator2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Iterator\Iterator2\Iterator2\obj\Debug\Iterator2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Iterator\Iterator2\Iterator2\obj\Debug\Iterator2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Iterator\Iterator2\Iterator2\obj\Debug\Iterator2.exe
+C:\Users\Usuario\Desktop\Iterator\Iterator2\Iterator2\obj\Debug\Iterator2.pdb
