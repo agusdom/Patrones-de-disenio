@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Mediator\Mediator\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\Usuario\Desktop\Mediator\Mediator\Mediator\bin\Debug\Mediator.exe
+C:\Users\Usuario\Desktop\Mediator\Mediator\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Usuario\Desktop\Mediator\Mediator\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Mediator\Mediator\Mediator\obj\Debug\Mediator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Mediator\Mediator\Mediator\obj\Debug\Mediator.Form1.resources
+C:\Users\Usuario\Desktop\Mediator\Mediator\Mediator\obj\Debug\Mediator.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Mediator\Mediator\Mediator\obj\Debug\Mediator.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Mediator\Mediator\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mediator\Mediator\Mediator\obj\Debug\Mediator.exe
+C:\Users\Usuario\Desktop\Mediator\Mediator\Mediator\obj\Debug\Mediator.pdb
