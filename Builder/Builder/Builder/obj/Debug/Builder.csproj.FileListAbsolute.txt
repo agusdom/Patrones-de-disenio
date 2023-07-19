@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Builder\Builder\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Builder\Builder\Builder\obj\Debug\Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Builder\Builder\Builder\obj\Debug\Builder.Form1.resources
+C:\Users\Usuario\Desktop\Builder\Builder\Builder\obj\Debug\Builder.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Builder\Builder\Builder\obj\Debug\Builder.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Builder\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Builder\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\Usuario\Desktop\Builder\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\Usuario\Desktop\Builder\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\Usuario\Desktop\Builder\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\Usuario\Desktop\Builder\Builder\Builder\obj\Debug\Builder.pdb
